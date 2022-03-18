@@ -17,16 +17,16 @@ function (user){
 }
 ```
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Input              | Output                                                  |
+| -----              | ------                                                  |
+|  activeUser.Brad   | `Welcome back, Brad`                                    |
+|  inactiveUser.Kyle | 'Hey Kyle,! Would you like to renew your subscription?' | 
+
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This function checks to see if a users has an active subscription if they do it prints a Welcome back message. If they do not have an acitive subscriptions the function returns a message asking if they would like to renew their subscription. </td>
   </tr>
 </table>
 
