@@ -17,10 +17,10 @@ function (user){
 }
 ```
 
-| Input              | Output                                                  |
-| -----              | ------                                                  |
-|  activeUser.Brad   | `Welcome back, Brad`                                    |
-|  inactiveUser.Kyle | 'Hey Kyle,! Would you like to renew your subscription?' | 
+| Input | Output   |
+| ----- | ------           |
+|  Brad | `Welcome back, Brad` |                                    
+|  Kyle | 'Hey Kyle,! Would you like to renew your subscription?' | 
 
 
 <table>
